@@ -1,0 +1,1 @@
+Hello! This is my submittal for Coding Temples's Assigment 2: The Magic of Conditional Statements
